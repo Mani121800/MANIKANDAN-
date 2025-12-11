@@ -9,7 +9,7 @@
 
 <!-- Social Icons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/manikandan-s-profile)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:manikandan1905213@gmail.com">
