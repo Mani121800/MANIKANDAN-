@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Manikandan</h1>
+<!-- Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF7F5&center=true&vCenter=true&width=600&lines=Hi+I'm+Manikandan;Full-Stack+Developer;Python+%7C+Django+%7C+FastAPI;Love+Building+Real-World+Projects" alt="Typing Animation" />
+</h1>
+
 <h3 align="center">Full-Stack Developer | Python & Django Specialist | API Architect</h3>
 
 ---
@@ -11,10 +15,8 @@ I’ve built projects like:
 - 🎓 Online course & video streaming platforms  
 - 🎟 Lottery & event application systems  
 - 🏥 Hospital management & billing systems  
-- 🔐 Authentication systems with OTP, custom flows, and API logics  
+- 🔐 Authentication systems with OTP & custom flows  
 - 🤖 AI-powered tools and automation scripts  
-
-I focus on performance, security, and delivering seamless user experiences.
 
 ---
 
@@ -53,6 +55,13 @@ I focus on performance, security, and delivering seamless user experiences.
 ### 🏆 GitHub Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Manikandan&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+### 🐍 Contribution Snake Animation  
+<p align="center">
+  <img src="https://github.com/Manikandan/Manikandan/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
