@@ -7,16 +7,78 @@
 
 ---
 
-### 🚀 About Me  
-I’m a passionate **Full-Stack Developer** who enjoys building production-ready applications with clean architecture and scalable design.  
-I specialize in **Python, Django, FastAPI, JavaScript**, and modern web development practices.
+<!-- Social Icons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:manikandan1905213@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://YOUR-PORTFOLIO.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-I’ve built projects like:  
+<!-- Resume Button -->
+<p align="center">
+  <a href="https://YOUR-RESUME-LINK.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-FF8C00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🚀 About Me  
+I’m a passionate **Full-Stack Developer** with a strong focus on building scalable, secure, and production-ready applications.  
+I specialize in **Python, Django, FastAPI, JavaScript**, and cloud deployments.
+
+I’ve built real-world applications like:  
 - 🎓 Online course & video streaming platforms  
-- 🎟 Lottery & event application systems  
-- 🏥 Hospital management & billing systems  
+- 🎟 Lottery & event ticketing systems  
+- 🏥 Hospital & billing management systems  
 - 🔐 Authentication systems with OTP & custom flows  
-- 🤖 AI-powered tools and automation scripts  
+- 🤖 AI and automation tools  
+
+---
+
+### 🧩 Featured Projects (Project Showcase)
+
+#### 🔥 **1. Online Course Platform (with Video Streaming + Reviews + Dynamic Content)**
+🔗 Project Link: *Add GitHub repo link here*  
+⭐ Features:  
+- Custom video player with watermark & user tracking  
+- Dynamic course content from database  
+- Review module inside same product model  
+- Authentication + role-based access  
+
+---
+
+#### 🎯 **2. Lottery Event System (Dynamic Sections + Payment Logic)**  
+🔗 Project Link: *Add GitHub repo link here*  
+⭐ Features:  
+- Dynamic FAQs & competition details from DB  
+- Real-time ticket percentage updates  
+- Image rendering & purchase flow  
+
+---
+
+#### 🏥 **3. Hospital Billing & Appointment System**  
+🔗 Project Link: *Add GitHub repo link here*  
+⭐ Features:  
+- Full CRUD operations  
+- Invoice generation  
+- Razorpay / payment integration  
+- Role management  
+
+---
+
+#### ⚡ **4. Face Recognition Attendance System**  
+🔗 Project Link: *Add GitHub repo link here*  
+⭐ Features:  
+- Real-time face detection  
+- Attendance logging  
+- Student/staff database  
 
 ---
 
@@ -46,8 +108,8 @@ I’ve built projects like:
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Manikandan&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikandan&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Manikandan&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikandan&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -61,13 +123,15 @@ I’ve built projects like:
 
 ### 🐍 Contribution Snake Animation  
 <p align="center">
-  <img src="https://github.com/Manikandan/Manikandan/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Manikandan/Manikandan/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ### 📫 Connect With Me  
-**📧 Email:** manikandan1905213@gmail.com  
+📧 **Email:** manikandan1905213@gmail.com  
+🔗 **LinkedIn:** Add your link  
+🌐 **Portfolio:** Add your website  
 
 ---
 
